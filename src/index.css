@@ -1,0 +1,14 @@
+.bg-light
+{
+    background-color: rgb(255, 255, 255) !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+}
+.stickiness
+{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    margin: 0;
+}
